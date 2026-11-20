@@ -2,6 +2,13 @@
 
 Este programa sirve para llevar el control básico de una escuela desde la consola. Permite registrar estudiantes, docentes y materias, inscribir alumnos a sus clases y guardar toda la información en un archivo para no perderla al cerrar el programa.
 
+## Integrantes del equipo
+
+| Codigo | Nombre |
+| :--- | :--- |
+| **221233412** | Mario de Jesús Martínez Castro |
+| **221471569** | Johan Daniel Ruvalcaba Vazquez |
+
 ## Que datos se registran?
 
 | Módulo | Datos que pide |
